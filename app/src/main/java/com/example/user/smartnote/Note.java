@@ -1,8 +1,5 @@
 package com.example.user.smartnote;
 
-/**
- * Created by user on 22-04-2018.
- */
 
 public class Note {
     public static final String TABLE_NAME = "notes";
